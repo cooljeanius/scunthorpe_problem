@@ -1,0 +1,59 @@
+Examples of the Scunthorpe Problem; mostly taken from Wikipedia:
+
+- Nabokov's Lolita
+- The Best Little Little Whorehouse In Texas
+- Shitake mushrooms
+- Montreal Urban Community (Communauté urbaine de Montréal) www.cum.qc.ca
+- Cockburn
+- Specialist
+- Callahan
+- Dr. Herman I. Libshitz
+- Natalie Weiner
+- Ben Schmuck
+- Arun Dikshit
+- Super Bowl XXX
+- Sussex
+- Wessex
+- Essex
+- Middlesex
+- Whakatane
+- Jiang (江)
+- Glue guns
+- Guns N' Roses
+- Burgundy
+- Medieval
+- Javascript
+- Jscript
+- Vbscript
+- Livescript
+- eval
+- mocha
+- expression
+- Sexual Offences Bill
+- Horniman Museum
+- socialism
+- socialist
+- Dick Whittington
+- erection
+- cock
+- tit
+- shag
+- booby
+- The Beaver
+- faggots
+- Penistone
+- Lightwater
+- Clitheroe
+- Magna cum laude
+- Tyson Gay
+- Arsenal
+- Canal
+- classic
+- assassinate
+- VarusExpirationTimer.luaobj
+- XerathMageChainsExtended.luaobj
+- Summa Cum Laude
+- Weightwatchers
+- Philip Sporn
+- The Cock Bridge to Tomintoul Road
+- McManus
