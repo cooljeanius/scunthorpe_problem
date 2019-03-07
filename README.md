@@ -9,6 +9,7 @@ Examples of the Scunthorpe Problem; mostly taken from Wikipedia:
 - Callahan
 - Dr. Herman I. Libshitz
 - Natalie Weiner
+- Anthony Weiner
 - Ben Schmuck
 - Arun Dikshit
 - Super Bowl XXX
@@ -57,3 +58,11 @@ Examples of the Scunthorpe Problem; mostly taken from Wikipedia:
 - Philip Sporn
 - The Cock Bridge to Tomintoul Road
 - McManus
+- VarbitChanged
+- Cofagrigus
+- Jigglypuff
+- Cumbria
+- grapes
+- GCRV 4654
+- Tim Dickinson
+
