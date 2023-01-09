@@ -70,3 +70,6 @@ Examples of the Scunthorpe Problem; mostly taken from Wikipedia:
 - Shelley
 - Bitchute
 - Lee Atwater
+- Nosepass
+- Probopass
+- Froslass
