@@ -1,10 +1,10 @@
 Examples of the Scunthorpe Problem; mostly taken from Wikipedia:
 
 - Nabokov's Lolita
-- The Best Little Little Whorehouse In Texas
-- Shitake mushrooms
+- The Best Little Whorehouse In Texas (1982 film starring Burt Reynolds and Dolly Parton)
+- Shitake mushrooms (shitakemushrooms.com)
 - Montreal Urban Community (Communauté urbaine de Montréal) www.cum.qc.ca
-- Cockburn
+- Cockburn (pronounced "Coburn")
 - Specialist
 - Callahan
 - Dr. Herman I. Libshitz
@@ -13,11 +13,11 @@ Examples of the Scunthorpe Problem; mostly taken from Wikipedia:
 - Ben Schmuck
 - Arun Dikshit
 - Super Bowl XXX
-- Sussex
+- Sussex (RomansInSussex.co.uk)
 - Wessex
 - Essex
 - Middlesex
-- Whakatane
+- Whakatane (pronounced "fuck-a-ta-nuh")
 - Jiang (江)
 - Glue guns
 - Guns N' Roses
@@ -31,29 +31,42 @@ Examples of the Scunthorpe Problem; mostly taken from Wikipedia:
 - mocha
 - expression
 - Sexual Offences Bill
-- Horniman Museum
+- Horniman Museum (London)
 - socialism
 - socialist
-- Dick Whittington
-- erection
-- cock
-- tit
-- shag
-- booby
-- The Beaver
-- faggots
-- Penistone
+- Dick Whittington (pantomime)
+- Dick Hinch (NH)
+- Dick Swett (NH)
+- Dick Pound (IOC)
+- erection (as in the structure)
+- cock (as in rooster)
+- tit (Parus major)
+- shag (Gulosus aristotelis)
+- booby (bird of genus Sula)
+- The Beaver (magazine based in Winnipeg)
+- faggots (Black Country dish)
+- Penistone (South Yorkshire)
 - Lightwater
-- Clitheroe
+- Clitheroe (Lancashire)
 - Magna cum laude
-- Tyson Gay
+- Tyson Gay (sprinter)
 - Arsenal
 - Canal
+- ass (as in donkey)
 - classic
+- assignment
 - assassinate
+- Richard Gaywood
 - VarusExpirationTimer.luaobj
 - XerathMageChainsExtended.luaobj
 - Summa Cum Laude
+- Dominic Cummings
+- bone
+- pubic (as in pubis, the bone)
+- stream
+- Plymouth Hoe (Devon landmark)
+- Bitche (French Commune)
+- Rohrbach-lès-Bitche
 - Weightwatchers
 - Philip Sporn
 - The Cock Bridge to Tomintoul Road
@@ -73,3 +86,5 @@ Examples of the Scunthorpe Problem; mostly taken from Wikipedia:
 - Nosepass
 - Probopass
 - Froslass
+- Falun (Swedish city)
+- thomasfuchs
