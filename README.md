@@ -88,3 +88,8 @@ Examples of the Scunthorpe Problem; mostly taken from Wikipedia:
 - Froslass
 - Falun (Swedish city)
 - thomasfuchs
+- saltwater
+- Bereshit (Torah reading) (sometimes spelled "Bereshith")
+- brushite (phosphate mineral)
+- Cushite (person from Cush or Kush) (also Cushitic)
+- Elkoshite (Nahum 1:1)
