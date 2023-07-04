@@ -89,6 +89,9 @@ Examples of the Scunthorpe Problem; mostly taken from Wikipedia:
 - Falun (Swedish city)
 - thomasfuchs
 - saltwater
+
+(from here on out I'm searching `/usr/share/dict/words` and then cross-referencing against Wikipedia; WIP)
+
 - Bereshit (Torah reading) (sometimes spelled "Bereshith")
 - brushite (phosphate mineral)
 - Cushite (person from Cush or Kush) (also Cushitic)
