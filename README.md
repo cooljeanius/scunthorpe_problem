@@ -96,3 +96,8 @@ Examples of the Scunthorpe Problem; mostly taken from Wikipedia:
 - brushite (phosphate mineral)
 - Cushite (person from Cush or Kush) (also Cushitic)
 - Elkoshite (Nahum 1:1)
+- Girgashite (another biblical tribe)
+- Marshite (mineral)
+- shitepoke (heron)
+- shittah tree (biblical) (see also: shittim, shittimwood)
+- Washita River
