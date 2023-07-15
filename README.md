@@ -101,3 +101,7 @@ Examples of the Scunthorpe Problem; mostly taken from Wikipedia:
 - shitepoke (heron)
 - shittah tree (biblical) (see also: shittim, shittimwood)
 - Washita River
+- words with "cum" as a substring: too many to list; skipping
+- words with "cock" as a substring: too many to list; skipping
+- words with "cialis" as a substring: too many to list; skipping
+- words with "allah" as a substring: there might actually be few enough of these to get them all; putting it off for now, though...
