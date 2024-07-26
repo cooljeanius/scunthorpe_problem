@@ -96,27 +96,40 @@ Not your usual Scunthorpe; instead an attempt at language misdetection:
 
 (from here on out I'm searching `/usr/share/dict/words` and then cross-referencing against Wikipedia; WIP)
 
-- Bereshit (Torah reading) (sometimes spelled "Bereshith")
-- brushite (phosphate mineral)
-- Cushite (person from Cush or Kush) (also Cushitic)
-- Elkoshite (Nahum 1:1)
-- Girgashite (another biblical tribe)
-- Marshite (mineral)
-- shitepoke (heron)
-- shittah tree (biblical) (see also: shittim, shittimwood)
-- Washita River
+- words with "shit" as a substring:
+  - Bereshit (Torah reading) (sometimes spelled "Bereshith")
+  - brushite (phosphate mineral)
+  - Cushite (person from Cush or Kush) (also Cushitic)
+  - Elkoshite (Nahum 1:1)
+  - Girgashite (another biblical tribe)
+  - Marshite (mineral)
+  - shitepoke (heron)
+  - shittah tree (biblical) (see also: shittim, shittimwood)
+  - Washita River
 - words with "cum" as a substring: too many to list; skipping
 - words with "cock" as a substring: too many to list; skipping
 - words with "cialis" as a substring: too many to list; skipping
-- ballahoo (alternate spelling of "ballyhoo", also the British ship HMS Ballahoo, sometimes also spelled "ballahou")
-- boxwallah (term in India for either a street peddler or elite corporate executive)
-- challah (Jewish bread, sometimes also spelled "hallah")
-- gallah (type of cockatoo)
-- kallah (traditional Talmudic teachers' convention)
-- lootiewallah (term in India for one who engages in looting or marauding)
-- mashallah ("God has willed it")
-- inshallah ("God willing")
-- nallah (type of valley, more commonly spelled "nullah" or "nala")
-- pallah (alternate spelling of "impala" I guess?)
-- topeewallah (doesn't appear to be an actual word, but it's in `/usr/share/dict/words`, so...)
-- wallah (Indian surname or suffix)
+- words with "allah" as a substring:
+  - ballahoo (alternate spelling of "ballyhoo", also the British ship HMS Ballahoo, sometimes also spelled "ballahou")
+  - boxwallah (term in India for either a street peddler or elite corporate executive)
+  - challah (Jewish bread, sometimes also spelled "hallah")
+  - gallah (type of cockatoo)
+  - kallah (traditional Talmudic teachers' convention)
+  - lootiewallah (term in India for one who engages in looting or marauding)
+  - mashallah ("God has willed it")
+  - inshallah ("God willing")
+  - nallah (type of valley, more commonly spelled "nullah" or "nala")
+  - pallah (alternate spelling of "impala" I guess?)
+  - topeewallah (doesn't appear to be an actual word, but it's in `/usr/share/dict/words`, so...)
+  - wallah (Indian surname or suffix)
+  - more terms with the "-wallah" suffix:
+    - dabbawallah
+    - chaiwallah
+    - dishwallah
+    - rickshawallah
+    - punkawallah
+    - lepwallah
+    - kabadiwallah
+    - robotwallah
+- next substring to check: "weiner"   
+
