@@ -89,6 +89,10 @@ Examples of the Scunthorpe Problem; mostly taken from Wikipedia:
 - Falun (Swedish city)
 - thomasfuchs
 - saltwater
+- Nwankwo Kanu (soccer player)
+- Twatt (two separate towns in Scotland, one in Shetland, and one in Orkney)
+- Nothing
+- Uranus
 
 Not your usual Scunthorpe; instead an attempt at language misdetection:
 
