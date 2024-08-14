@@ -93,6 +93,7 @@ Examples of the Scunthorpe Problem; mostly taken from Wikipedia:
 - Twatt (two separate towns in Scotland, one in Shetland, and one in Orkney)
 - Nothing
 - Uranus
+- on-again off-again
 
 Not your usual Scunthorpe; instead an attempt at language misdetection:
 
