@@ -94,6 +94,7 @@ Examples of the Scunthorpe Problem; mostly taken from Wikipedia:
 - Nothing
 - Uranus
 - on-again off-again
+- Senator Chris Coons
 
 Not your usual Scunthorpe; instead an attempt at language misdetection:
 
