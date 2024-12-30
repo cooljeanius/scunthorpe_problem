@@ -97,6 +97,7 @@ Examples of the Scunthorpe Problem; mostly taken from Wikipedia:
 - Senator Chris Coons
 - charset
 - the acronym "lol" (for "laugh out loud") followed by the pronoun "I"
+- basement
 
 Not your usual Scunthorpe; instead an attempt at language misdetection:
 
