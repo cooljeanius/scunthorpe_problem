@@ -98,6 +98,7 @@ Examples of the Scunthorpe Problem; mostly taken from Wikipedia:
 - charset
 - the acronym "lol" (for "laugh out loud") followed by the pronoun "I"
 - basement
+- advertisement
 
 Not your usual Scunthorpe; instead an attempt at language misdetection:
 
