@@ -99,6 +99,7 @@ Examples of the Scunthorpe Problem; mostly taken from Wikipedia:
 - the acronym "lol" (for "laugh out loud") followed by the pronoun "I"
 - basement
 - advertisement
+- therapist
 
 Not your usual Scunthorpe; instead an attempt at language misdetection:
 
